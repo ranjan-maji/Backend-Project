@@ -2,4 +2,3 @@ npm install
 npm install express mysql body-parser
 npm install --save-dev nodemon
 npm start
-https://www.youtube.com/watch?v=f5kye3ESXE8
